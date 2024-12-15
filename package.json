@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-wifi-6",
-  "version": "6.0.0",
+  "version": "6.0.2",
   "description": "Capacitor 6 wifi scanner for android",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
