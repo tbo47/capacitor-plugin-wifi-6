@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://www.npmjs.com/capacitor-plugin-wifi-6"><img src="https://img.shields.io/npm/v/capacitor-plugin-wifi-6.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="capacitor-plugin-wifi-6 on npm" /></a>&nbsp;
+  <a href="https://www.npmjs.com/capacitor-plugin-wifi-6"><img src="https://img.shields.io/npm/dw/capacitor-plugin-wifi-6.svg?logo=npm&logoColor=fff&label=NPM+package&color=limegreen" alt="capacitor-plugin-wifi-6 on npm" /></a>
+</p>
+
 # capacitor-plugin-wifi-6
 
 Capacitor plugin that work as wrapper of WifiManager of Android.
