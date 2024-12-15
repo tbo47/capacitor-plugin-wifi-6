@@ -36,10 +36,10 @@ npx cap sync
 ### checkPermission()
 
 ```typescript
-checkPermission() => Promise<{ status: string; }>
+checkPermission() => Promise<{ status: boolean; }>
 ```
 
-**Returns:** <code>Promise&lt;{ status: string; }&gt;</code>
+**Returns:** <code>Promise&lt;{ status: boolean; }&gt;</code>
 
 --------------------
 
